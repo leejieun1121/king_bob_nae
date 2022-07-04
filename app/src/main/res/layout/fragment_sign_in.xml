@@ -72,6 +72,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="24dp"
                     android:layout_marginTop="32dp"
+
                     android:textColor="@color/brown_gray_300"
                     android:theme="@style/EditTextStyle"
                     app:endIconMode="custom"
